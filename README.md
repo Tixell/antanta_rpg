@@ -1,6 +1,6 @@
 # antanta_rpg ДЕМО-ВЕРСИЯ 
 made by Russia 
-studio T48_gamer
+           studio T48_gamer
 
 ВАЖНАЯ ИНФОРМАЦИЯ
  `#include <iostream>` – подключение библиотеки для ввода/вывода (используется для cout и cin).
